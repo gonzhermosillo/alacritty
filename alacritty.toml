@@ -87,7 +87,7 @@ term = "xterm-256color"
 family = "RobotoMono Nerd Font"
 
 [window]
-opacity = 0.9
+opacity = 1.0
 
 [[keyboard.bindings]]
 chars = "\u0017"
